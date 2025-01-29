@@ -1,6 +1,5 @@
-## Hi there 👋
+## Olá, sou Claudiomiro!  👋
 
-## Olá, sou Claudiomiro! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 <!--
